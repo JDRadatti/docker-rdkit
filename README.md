@@ -1,7 +1,7 @@
 # Dockerfiles for building RDKit.
 
 GitHub repo for RDKit is [here](https://github.com/rdkit/rdkit).
-GitHub repo for this project is [here](https://github.com/InformaticsMatters/docker-rdkit)
+GitHub repo for the parent project with additional information is [here](https://github.com/InformaticsMatters/docker-rdkit)
 
 To create images for a new version of RDKit you should only need to create a new branch from `master` and then edit `params.sh`.
 
