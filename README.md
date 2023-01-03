@@ -7,7 +7,7 @@ To create images for a new version of RDKit you should only need to create a new
 
 ## Build and run
 
-Edit params.sh with your docker username and computer's architecture.
+Edit params.sh with your docker username and computer's architecture. Optionally uncomment and update Dockerfile-python3-debian(line 41) with desired dependencies. 
 
 Create the docker images like this:
 
