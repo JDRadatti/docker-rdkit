@@ -5,7 +5,7 @@
 #
 
 FROM debian:bullseye
-LABEL maintainer="Tim Dudgeon<tdudgeon@informaticsmatters.com>"
+LABEL maintainer="Justin Radatti<jdradatti@gmail.com>"
 
 ENV PG_MAJOR=13
 ENV BOOST_VER=1.74.0

@@ -2,7 +2,7 @@
 # Based on Debian.
 
 FROM debian:bullseye
-LABEL maintainer="Tim Dudgeon<tdudgeon@informaticsmatters.com>"
+LABEL maintainer="Justin Radatti<jdradatti@gmail.com"
 
 ARG BOOST_VER=1.74.0
 
